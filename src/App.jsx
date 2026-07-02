@@ -416,7 +416,7 @@ export default function App() {
       <div style={S.header}>
         <div style={S.headerIcon}>✈</div>
         <h2 style={S.h2}>Telegram Downloader</h2>
-        <span style={S.versionTag}>v3.1</span>
+        <span style={S.versionTag}>v3.1.1</span>
       </div>
 
       {/* Config card */}
